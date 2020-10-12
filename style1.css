@@ -1,0 +1,127 @@
+.japanese {
+	font-size: 16px;
+	margin-top: 10px;
+  -webkit-writing-mode: vertical-rl;
+  -moz-writing-mode: vertical-rl;
+  -ms-writing-mode: vertical-rl;
+  writing-mode: vertical-rl;
+}
+a{
+	color: white;
+}
+.masthead{
+	background-image: url("056_top-assets/bg_header.png");
+	height: 720px;
+}
+#scroll{
+	border-radius: 25px;
+	font-family: "Times New Roman", Times, serif;
+	color : white;
+}
+#section1{
+	background-color: : white;
+	height: 720px;
+}
+.svg{
+	position: relative;
+	left: 350px;
+	top: -100px;
+	z-index: 0;
+}
+.kotak{
+	position: relative;
+	fill:rgb(255, 165, 0);
+	stroke-width:0;
+	stroke:rgb(0,0,0);
+	z-index: 0;
+}
+#section2{
+	height: 720px;
+
+}
+#button-nav{
+	border-radius: 20px;
+	height:40px;
+	width: 100px
+}
+#img1{
+	position: relative;
+	width: 500px;
+	height: 500px;
+	float: right;
+	top: -200px;
+}
+#title{
+	position: relative;
+	top: -700px;
+	font-size: 100px;
+	width: 1000px;
+	left: -300px;
+	z-index: 1;
+}
+#jp1{
+	position: relative;
+	width: 1000px;
+	font-size: 50px;
+	left: 150px;
+	top: -720px;
+	color: white;
+	z-index: 2;
+}
+#sect2-1{
+	position: relative;
+	width: 500px;
+	z-index: 3;
+	left: -350px;
+	top: -650px;
+}
+#capt1{
+	position: relative;
+	left : -230px;
+	top: -650px;
+	color: gray;
+}
+#table1{
+	position: relative;
+	z-index: 7;
+	top: -740px;
+	left: -235px;
+	height: 50px;
+	width: 250px;
+	background-color: white;
+	color: black;
+}
+#table1:hover{
+	background-color: black;
+	color: white;
+
+}
+#sect2-2{
+	position: relative;
+	width: 500px;
+	z-index: 3;
+	left: 350px;
+	top: -1050px;
+}
+#capt2{
+	position: relative;
+	left : 470px;
+	top: -1050px;
+	color: gray;
+}
+#table2{
+	position: relative;
+	z-index: 5;
+	top: -1140px;
+	left: 465px;
+	height: 50px;
+	width: 250px;
+	background-color: white;
+	color: black;
+}
+#table2:hover{
+	background-color: black;
+	color: white;
+
+}
+
