@@ -1,3 +1,6 @@
+nav{
+	width: 1355px;
+}
 .japanese {
 	font-size: 16px;
 	margin-top: 10px;
@@ -11,6 +14,7 @@ a{
 }
 .masthead{
 	background-image: url("056_top-assets/bg_header.png");
+	width: 1355px;
 	height: 720px;
 }
 #scroll{
@@ -20,7 +24,8 @@ a{
 }
 #section1{
 	background-color: : white;
-	height: 720px;
+	height: 800px;
+	width: 1280px;
 }
 .svg{
 	position: relative;
@@ -36,7 +41,9 @@ a{
 	z-index: 0;
 }
 #section2{
-	height: 720px;
+	height: 800px;
+	background-image: url("056_top-assets/bg-orange.png");
+	width: 1280px;
 
 }
 #button-nav{
@@ -53,10 +60,10 @@ a{
 }
 #title{
 	position: relative;
-	top: -700px;
+	top: 10px;
 	font-size: 100px;
 	width: 1000px;
-	left: -300px;
+	left: -50px;
 	z-index: 1;
 }
 #jp1{
@@ -64,7 +71,7 @@ a{
 	width: 1000px;
 	font-size: 50px;
 	left: 150px;
-	top: -720px;
+	top: 5px;
 	color: white;
 	z-index: 2;
 }
@@ -72,20 +79,20 @@ a{
 	position: relative;
 	width: 500px;
 	z-index: 3;
-	left: -350px;
-	top: -650px;
+	left: -100px;
+	top: 45;
 }
 #capt1{
 	position: relative;
-	left : -230px;
-	top: -650px;
+	left : 80px;
+	top: 10px;
 	color: gray;
 }
 #table1{
 	position: relative;
 	z-index: 7;
-	top: -740px;
-	left: -235px;
+	top: -90px;
+	left: -100px;
 	height: 50px;
 	width: 250px;
 	background-color: white;
@@ -100,20 +107,20 @@ a{
 	position: relative;
 	width: 500px;
 	z-index: 3;
-	left: 350px;
-	top: -1050px;
+	left: 450px;
+	top: -350px;
 }
 #capt2{
 	position: relative;
-	left : 470px;
-	top: -1050px;
+	left : 630px;
+	top: -350px;
 	color: gray;
 }
 #table2{
 	position: relative;
 	z-index: 5;
-	top: -1140px;
-	left: 465px;
+	top: -440px;
+	left: 450px;
 	height: 50px;
 	width: 250px;
 	background-color: white;
@@ -124,4 +131,234 @@ a{
 	color: white;
 
 }
+#section3{
+	background-image: url("056_top-assets/bg-biru.png");
+	width: 1280px;
+	height: 800px;
+}
+#company{
+	position: relative;
+	font-size: 100px;
+	top: 75px;
+	left: 300px;
+}
+#title2{
+	position: relative;
+	color: white;
+	font-size: 40px;
+	width: 1000px;
+	right: 200px;
+	top: 50px;
+}
+#sect3-1{
+	position: relative;
+	top: 50px;
+	right: 400px;
+	width: 400px;
+}
+#logo1{
+	position: relative;
+	bottom: 175px;
+	left: -400px;
+	font-size: 50px;
+	z-index: 11;
+}
+#table3{
+	position: relative;
+	z-index: 10;
+	top: -130px;
+	left: -235px;
+	height: 50px;
+	width: 150px;
+	background-color: white;
+	color: black;
+}
+#table3:hover{
+	background-color: black;
+	color: white;
 
+}
+#capt3{
+	position: relative;
+	color: gray;
+	top: 50px;
+	right: 240px;
+}
+#sect3-2{
+	position: relative;
+	left: 25px;
+	bottom: 370px;
+	width: 400px;
+}
+#capt4{
+	position: relative;
+	left: 190px;
+	bottom: 370px;	
+	color: gray;
+}
+#table4{
+	position: relative;
+	z-index: 10;
+	top: -460px;
+	left: 190px;
+	height: 50px;
+	width: 150px;
+	background-color: white;
+	color: black;
+}
+#table4:hover{
+	background-color: black;
+	color: white;
+
+}
+#sect3-3{
+	position: relative;
+	width: 400px;
+	bottom: 700px;
+	left: 450px;
+}
+#logo2{
+	position: relative;
+	font-size: 50px;
+	left: 450px;
+	bottom: 925px;
+}
+#table5{
+	position: relative;
+	z-index: 10;
+	bottom: 840px;
+	left: 615px;
+	height: 50px;
+	width: 150px;
+	background-color: white;
+	color: black;
+}
+#table5:hover{
+	background-color: black;
+	color: white;
+
+}
+#section4{
+	background-image: url("056_top-assets/bg-orange.png");
+	width: 1280px;
+	height: 800px;
+}
+#work{
+	position: relative;
+	font-size: 100px;
+	bottom: 50px;
+	right: 250px;
+}
+.title-capt{
+	position: relative;
+	right: 345px;
+}
+#underscore{
+	position: relative;
+	font-size: 50px;
+	bottom: 150px;
+	right: 375px;
+}
+#title3{
+	position: relative;
+	font-size: 50px;
+	color: white;
+	left: 250px;
+	bottom: 150px
+}
+#sect4-1{
+	position: relative;
+	bottom: 100px;
+	right: 300px;
+}
+#table6{
+	position: relative;
+	z-index: 10;
+	bottom: 150px;
+	right: 245px;
+	height: 50px;
+	width: 250px;
+	background-color: white;
+	color: black;
+}
+#table6:hover{
+	background-color: black;
+	color: white;
+}
+#sect4-2{
+	position: relative;
+	bottom: 400px;
+	left: 375px;
+	width: 600px;
+}
+#table7{
+	position: relative;
+	z-index: 10;
+	bottom: 450px;
+	left: 440px;
+	height: 50px;
+	width: 250px;
+	background-color: white;
+	color: black;
+}
+#table7:hover{
+	background-color: black;
+	color: white;
+}
+#section5{
+	background-image: url("056_top-assets/img_recruit.png");
+	height: 350px;
+}
+#recruit{
+	position: relative;
+	font-size: 100px;
+	bottom: 125px;
+	right: 250px;
+}
+.title-capt2{
+	position: relative;
+	right: 380px;
+	bottom: 75px;
+}
+#underscore1{
+	position: relative;
+	font-size: 50px;
+	bottom: 225px;
+	right: 420px;
+}
+#title4{
+	position: relative;
+	font-size: 50px;
+	color: white;
+	bottom: 250px;
+	left: 250px;
+}
+#table8{
+	position: relative;
+	height: 75px;
+	bottom: 200px;
+	background-color: white;
+
+}
+#table9{
+	position: relative;
+	height: 75px;
+	bottom: 275px;
+	background-color: white;
+	left: 350px
+
+}
+#footer {
+  background: #1f5bad;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  padding: 30px 0;
+  color: white;
+  font-size: 14px;
+}
+.section-bg-bottom {
+  background: #2065c5;
+}
+#go-top{
+	color:#2065c5; 
+	font-weight: bolder;
+}
